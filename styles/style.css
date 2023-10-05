@@ -416,6 +416,11 @@ footer .reseau_sociaux div:hover {
   main .partieBas__form div {
     margin-bottom: 10px;
   }
+  main .partieBas__form div span {
+    width: 80%;
+    margin: auto;
+    text-align: left;
+  }
   main .partieBas__form div input {
     margin: auto;
     width: 78%;
